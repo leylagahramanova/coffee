@@ -347,3 +347,15 @@ z-index:999;
 
 color:#fff;
 }
+.mind-container{
+  padding:5rem;
+  display:flex;
+  justify-content: center;
+  align-content: space-around;
+  align-items: flex-end;
+  flex-wrap: wrap;
+
+}
+.subscribe-form{
+  padding-top:5rem;
+}

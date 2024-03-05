@@ -3,6 +3,7 @@ import React from 'react'
 function Mind() {
   return (
     <div className="mind">
+        <div className='mind-container'>
         <h2>COFFEE BULD YOUR<br></br>FRESH MIND</h2>
         <div className="subscribe-form">
       <div className="input-container">
@@ -37,6 +38,7 @@ function Mind() {
           Subscribe
         </button>
       </div>
+    </div>
     </div>
     </div>
   )
