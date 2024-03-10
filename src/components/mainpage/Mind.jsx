@@ -3,16 +3,17 @@ import React from 'react'
 function Mind() {
   return (
     <div className="mind">
+      
+      <h2>COFFEE BULD YOUR<br></br>FRESH MIND</h2>
         <div className='mind-container'>
-        <h2>COFFEE BULD YOUR<br></br>FRESH MIND</h2>
         <div className="subscribe-form">
       <div className="input-container">
         <input
           type="email"
           placeholder="Enter Your Email"
           style={{
-            width: '503px',
-            height: '115px',
+            width: '31.438rem',
+            height: '7.188rem',
             border: '1px solid #000',
             fontWeight: 600,
             fontSize: '32px',
@@ -24,8 +25,8 @@ function Mind() {
         />
         <button
           style={{
-            width: '365px', 
-            height: '115px',
+            width: '22.813rem', 
+            height: '7.188rem',
             backgroundColor: '#512615',
             border: 'none',
             fontWeight: 600,

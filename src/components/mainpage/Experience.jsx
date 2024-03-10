@@ -1,12 +1,12 @@
 import React from 'react'
 import Navbar from '../../components/Navbar';
-
+import { BrowserRouter as Router } from 'react-router-dom';
 function Experience() {
   return (
     <>
           <section className="section"
-      >
-        <Navbar />
+      ><Router>    <Navbar /></Router>
+    
         <div className='experience'>
     <h1>Experience the Finest<br></br> Artisanal Coffee Roasting</h1>
     <p>"Indulge in the Perfect Cup of Perfection"</p>

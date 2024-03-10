@@ -18,31 +18,31 @@ function Prod() {
             <div className='square'>
               <img src={stimy} />
             </div>
-            TESTY COFFEE STIMY
+           <h3>TESTY COFFEE STIMY</h3> 
           </div>
           <div className='product'>
             <div className='square'>
               <img src={americano} />
             </div>
-            AMERICANO PURE GRADES
+            <h3>AMERICANO PURE GRADES</h3>
           </div>
           <div className='product'>
             <div className='square'>
               <img src={indian} />
             </div>
-            INDIAN ROASTING
+            <h3>INDIAN ROASTING</h3> 
           </div>
           <div className='product'>
             <div className='square'>
               <img src={bangladesh} />
             </div>
-            BANGLADESHI ORGANIC
+            <h3>BANGLADESHI ORGANIC</h3>  
           </div>
           <div className='product'>
             <div className='square'>
               <img src={arvica} />
             </div>
-            ARVICA COFFEE PACK
+            <h3>ARVICA COFFEE PACK</h3> 
           </div>
         </div>
 
